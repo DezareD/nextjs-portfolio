@@ -17,7 +17,7 @@ const Works = () => {
             <SimpleGrid columns={[ 1, 1, 2 ]} gap={6}>
                 <Section>
                     <WorkGridItem id="svd-trade" title="Svd Trade" thumbnail={svdThumb}>
-                        Website for the construction company "SVD TRADE".
+                        Website for the construction company &quot;SVD TRADE&quot;.
                         <Text pt={3}>.Net Core 3.1, pure CSS, HTML, JS</Text>
                     </WorkGridItem>
                 </Section>
