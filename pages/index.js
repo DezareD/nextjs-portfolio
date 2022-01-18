@@ -11,7 +11,7 @@ const Page = () => {
         <Layout>
         <Container>
             <Box borderRadius="lg" background={useColorModeValue('whiteAlpha.500', 'whiteAlpha.200')} mb={6} p={5}>
-                Hello, i'm Pavel Osipov, a full-stack developer based in Moscow. 
+                Hello, i&apos;m Pavel Osipov, a full-stack developer based in Moscow. 
             </Box>
             <Box display={{ md: 'flex' }}>
                 <Box flexGrow={1}>
